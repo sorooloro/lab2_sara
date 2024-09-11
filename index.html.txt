@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>
+			index.html
+		</title>
+        <style>
+body {
+background-color: light blue;
+}
+
+h1 {
+color: blue;
+margin: 50px;
+padding: 20px;
+}
+
+p {
+color: green;
+margin: 20px;
+padding: 20px;
+}
+
+img {
+margin: center;
+width: 300px;
+}
+</style>
+		<body>
+			<h1>
+				Sara Alsalem
+			</h1>
+			<p>
+				A student studying Information Systems in King Saud University.
+				During my day I enjoy doing some activities that include organizing,
+				art work, and pilates. Having hobbies makes it possible to pass through
+				the semester and de-stress.
+			</p>
+			<img src="C:\Users\Exam\Downloads\organizing-home.jpg" alt="Organization">
+            <br/>
+			<a href="https://www.primevideo.com/"> Prime Video</a> is a great platform to watch movies and series, it includes:
+			<ul>
+				<li> One Tree Hill </li>
+				<li> Family Guy </li>
+				<li> The Marvelous Mrs. Maisel </li>
+			</ul>
+            <h4>
+            	To go to pilates: 
+            </h4>
+			<ol>
+				<li>Book a class online </li>
+				<li> Get changed into suitable clothes </li>
+				<li> Prepare your reformer for the class </li>
+			</ol>
+           </body>
+</html>
